@@ -1,3 +1,9 @@
+/*
+Description: This script controls the abilities of the special slimes. When the red slime comes into contact with objects labelled "wood", the wood will
+be destroyed after a couple of seconds. The green slimes will destroy the objects labelled "metal" after a couple of seconds. I couldn't figure out how to
+get the wood and metal to change colors to show that something was happening during the couple of seconds between the slime hitting the object.
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
