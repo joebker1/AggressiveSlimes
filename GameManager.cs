@@ -1,4 +1,8 @@
-using System.Collections;
+/*
+Description: This script controls when the player moves onto the next level. This script was used to move onto the next level to continue testing and submission
+*/
+
+.using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
