@@ -1,3 +1,9 @@
+/*
+Description: This controls the mechanics for the Launcher. The player pulls back on the slime to a certain distance, and the player can choose where
+to launch the slime. While flying, the slime will output a trail that copies the color of the slime. This script also controls the order of the 
+slimes that the player will launch.
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
