@@ -1,3 +1,8 @@
+/*
+Description: This script loads the next level once the conditions are met, you run out of slimes or destroy all the humans. The player can also quit to the
+main menu.
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
