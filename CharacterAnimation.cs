@@ -1,3 +1,9 @@
+/*
+Description: This script controls the launching animation for when the player pulls back on the slime. This controls flight time, forcing the player to wait
+before launching another slime (this can be fixed if you set an OutOfBounds border past the screen, then once destroyed, go back to the launcher), and
+destruction of slimes.
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
