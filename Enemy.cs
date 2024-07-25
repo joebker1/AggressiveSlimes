@@ -1,3 +1,8 @@
+/*
+Description: This script controls the health of the enemies, the knights and the kings. The humans take damage through physics, when falling or getting hit
+from the slimes. When the humans take their total health in damage, the humans will die.
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
